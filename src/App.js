@@ -15,8 +15,8 @@ const App = () => {
         <HeroSection/>
         <ProfileSection/>
         <SkillSection/>
-        <ProjectSection/>
-        <ContactSection/>
+        {/* <ProjectSection/>
+        <ContactSection/> */}
     </div>
   )
 
